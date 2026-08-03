@@ -1,0 +1,201 @@
+customerID,segment,tenure,MonthlyCharges,Contract,churn_probability,priority_score
+3292-PBZEJ,New & vulnerable,11,111.4,Month-to-month,0.791,88.168
+2754-SDJRD,New & vulnerable,8,100.15,Month-to-month,0.878,87.972
+4445-ZJNMU,New & vulnerable,9,99.3,Month-to-month,0.848,84.182
+4132-KALRO,New & vulnerable,4,100.85,Month-to-month,0.83,83.708
+5150-ITWWB,New & vulnerable,3,94.85,Month-to-month,0.853,80.894
+8161-QYMTT,New & vulnerable,7,94.1,Month-to-month,0.854,80.316
+4927-WWOOZ,New & vulnerable,2,91.45,Month-to-month,0.873,79.858
+6215-NQCPY,Established M2M,15,99.7,Month-to-month,0.762,75.949
+6969-MVBAI,New & vulnerable,9,90.1,Month-to-month,0.839,75.624
+3320-VEOYC,Established M2M,14,95.6,Month-to-month,0.79,75.526
+1941-HOSAM,New & vulnerable,1,90.1,Month-to-month,0.835,75.223
+8622-ZLFKO,New & vulnerable,6,90.75,Month-to-month,0.829,75.206
+1628-BIZYP,New & vulnerable,1,85.0,Month-to-month,0.88,74.759
+4912-PIGUY,New & vulnerable,1,84.6,Month-to-month,0.884,74.748
+3462-BJQQA,New & vulnerable,6,89.75,Month-to-month,0.832,74.643
+6137-NICCO,New & vulnerable,6,94.05,Month-to-month,0.791,74.393
+1960-UYCNN,New & vulnerable,10,95.25,Month-to-month,0.767,73.061
+2254-DLXRI,New & vulnerable,1,79.15,Month-to-month,0.922,72.955
+5129-JLPIS,Established M2M,25,105.5,Month-to-month,0.691,72.901
+5348-CAGXB,New & vulnerable,12,89.55,Month-to-month,0.804,71.998
+5937-EORGB,Established M2M,15,96.5,Month-to-month,0.745,71.89
+3197-ARFOY,Established M2M,19,105.0,Month-to-month,0.679,71.313
+3318-NMQXL,New & vulnerable,3,92.0,Month-to-month,0.774,71.237
+2545-EBUPK,New & vulnerable,2,84.05,Month-to-month,0.842,70.781
+7392-YYPYJ,Established M2M,22,100.65,Month-to-month,0.701,70.597
+6350-XFYGW,New & vulnerable,4,94.75,Month-to-month,0.744,70.482
+7577-SWIFR,New & vulnerable,1,89.25,Month-to-month,0.789,70.414
+0722-SVSFK,New & vulnerable,7,100.4,Month-to-month,0.7,70.242
+1751-NCDLI,Established M2M,46,98.85,Month-to-month,0.71,70.149
+5956-YHHRX,Established M2M,21,104.35,Month-to-month,0.669,69.769
+0916-QOFDP,Established M2M,14,95.8,Month-to-month,0.725,69.499
+7181-OQCUT,Established M2M,21,103.85,Month-to-month,0.669,69.455
+4060-LDNLU,New & vulnerable,7,96.2,Month-to-month,0.72,69.245
+4273-MBHYA,New & vulnerable,1,89.35,Month-to-month,0.773,69.106
+4929-XIHVW,New & vulnerable,2,95.5,Month-to-month,0.723,69.037
+8087-LGYHQ,New & vulnerable,9,94.05,Month-to-month,0.73,68.647
+4016-BJKTZ,Power user,25,108.9,Two year,0.63,68.609
+4686-UXDML,Established M2M,21,99.85,Month-to-month,0.686,68.508
+7439-DKZTW,New & vulnerable,1,80.55,Month-to-month,0.848,68.334
+2018-QKYGT,New & vulnerable,1,81.05,Month-to-month,0.841,68.182
+7398-SKNQZ,New & vulnerable,3,94.9,Month-to-month,0.718,68.179
+9741-YLNTD,New & vulnerable,6,87.95,Month-to-month,0.771,67.827
+3489-HHPFY,New & vulnerable,2,84.05,Month-to-month,0.806,67.735
+6851-WEFYX,Established M2M,35,100.8,Month-to-month,0.671,67.625
+7952-OBOYL,New & vulnerable,3,89.85,Month-to-month,0.747,67.086
+9094-AZPHK,Established M2M,15,100.15,Month-to-month,0.669,66.957
+4813-HQMGZ,New & vulnerable,8,90.25,Month-to-month,0.741,66.891
+8739-XNIKG,New & vulnerable,5,84.0,Month-to-month,0.794,66.676
+9547-ITEFG,New & vulnerable,9,102.6,Month-to-month,0.649,66.625
+5168-MSWXT,New & vulnerable,8,94.75,Month-to-month,0.701,66.461
+8313-NDOIA,Established M2M,24,104.15,Month-to-month,0.638,66.421
+6630-UJZMY,New & vulnerable,4,83.25,Month-to-month,0.797,66.363
+4633-MKHYU,New & vulnerable,9,88.4,Month-to-month,0.743,65.679
+0420-HLGXF,Established M2M,39,99.75,Month-to-month,0.658,65.647
+1379-FRVEB,Established M2M,15,91.0,Month-to-month,0.719,65.459
+1452-VOQCH,New & vulnerable,1,75.1,Month-to-month,0.871,65.443
+2439-LYPMQ,Established M2M,38,102.6,Month-to-month,0.636,65.274
+1666-JXLKU,Established M2M,37,100.05,Month-to-month,0.652,65.274
+9957-YODKZ,New & vulnerable,6,80.8,Month-to-month,0.807,65.173
+3422-GALYP,New & vulnerable,2,79.45,Month-to-month,0.82,65.123
+3384-CTMSF,Established M2M,47,104.1,Month-to-month,0.623,64.81
+3001-UNBTL,Established M2M,29,103.95,Month-to-month,0.618,64.279
+9919-KNPOO,Established M2M,21,94.3,Month-to-month,0.681,64.182
+2080-CAZNM,Established M2M,41,104.4,Month-to-month,0.613,64.033
+7315-WYOAW,Established M2M,13,100.75,Month-to-month,0.634,63.921
+5630-IXDXV,Established M2M,47,106.35,Month-to-month,0.601,63.885
+7901-TBKJX,Established M2M,56,101.05,Month-to-month,0.632,63.863
+7145-FEJWU,New & vulnerable,12,105.3,Month-to-month,0.605,63.728
+0447-RXSGD,Established M2M,24,99.65,Month-to-month,0.638,63.556
+5935-FCCNB,Established M2M,17,94.2,Month-to-month,0.675,63.541
+2135-DQWAQ,New & vulnerable,5,85.3,Month-to-month,0.742,63.324
+3211-AAPKX,Established M2M,20,98.55,Month-to-month,0.64,63.046
+0432-CAJZV,New & vulnerable,3,90.7,Month-to-month,0.691,62.679
+0021-IKXGC,New & vulnerable,1,72.1,Month-to-month,0.868,62.59
+9360-OMDZZ,Established M2M,24,94.1,Month-to-month,0.664,62.523
+2657-VPXTA,New & vulnerable,10,88.85,Month-to-month,0.701,62.285
+2665-NPTGL,Established M2M,26,98.1,Month-to-month,0.633,62.134
+3452-GWUIN,Established M2M,19,94.95,Month-to-month,0.654,62.079
+8818-DOPVL,Established M2M,46,104.45,Month-to-month,0.592,61.81
+5382-SOYZL,Established M2M,22,95.1,Month-to-month,0.649,61.762
+7225-CBZPL,Established M2M,17,94.8,Month-to-month,0.646,61.205
+8775-ERLNB,New & vulnerable,1,74.3,Month-to-month,0.822,61.099
+2107-FBPTK,Established M2M,30,104.1,Month-to-month,0.586,60.984
+7858-GTZSP,New & vulnerable,12,86.55,Month-to-month,0.701,60.669
+3096-GKWEB,Established M2M,18,94.75,Month-to-month,0.64,60.628
+5542-TBBWB,New & vulnerable,1,69.9,Month-to-month,0.866,60.565
+9058-MJLZC,Established M2M,24,94.6,Month-to-month,0.639,60.488
+8266-VBFQL,New & vulnerable,4,90.4,Month-to-month,0.668,60.368
+1200-TUZHR,New & vulnerable,8,85.2,Month-to-month,0.706,60.17
+8132-YPVBX,New & vulnerable,6,85.95,Month-to-month,0.698,60.021
+9054-FOWNV,Established M2M,22,88.75,Month-to-month,0.674,59.847
+2809-ZMYOQ,Established M2M,32,101.35,Month-to-month,0.59,59.824
+5331-RGMTT,Established M2M,54,99.05,Month-to-month,0.604,59.78
+4395-PZMSN,New & vulnerable,5,85.55,Month-to-month,0.697,59.607
+8709-KRDVL,Established M2M,33,100.0,Month-to-month,0.594,59.441
+2876-GZYZC,Established M2M,13,85.95,Month-to-month,0.69,59.31
+6229-LSCKB,New & vulnerable,6,79.7,Month-to-month,0.743,59.22
+0365-BZUWY,Established M2M,17,102.55,Month-to-month,0.577,59.154
+7402-EYFXX,Established M2M,26,93.6,Month-to-month,0.631,59.041
+6818-DJXAA,New & vulnerable,10,91.1,Month-to-month,0.645,58.717
+6116-RFVHN,Established M2M,34,100.45,Month-to-month,0.584,58.655
+4884-ZTHVF,New & vulnerable,8,87.1,Month-to-month,0.673,58.631
+5043-TRZWM,New & vulnerable,1,75.55,Month-to-month,0.775,58.588
+4128-ETESU,Established M2M,47,99.7,Month-to-month,0.587,58.562
+6734-GMPVK,New & vulnerable,5,105.3,Month-to-month,0.556,58.561
+7668-XCFYV,Established M2M,17,92.55,Month-to-month,0.632,58.531
+3338-CVVEH,New & vulnerable,12,94.55,Month-to-month,0.617,58.339
+0434-CSFON,Established M2M,47,100.5,Month-to-month,0.58,58.259
+4234-XTNEA,New & vulnerable,2,79.95,Month-to-month,0.728,58.231
+5995-SNNEW,Established M2M,23,104.45,Month-to-month,0.556,58.047
+4847-TAJYI,New & vulnerable,6,89.35,Month-to-month,0.648,57.896
+9334-GWGOW,New & vulnerable,7,74.85,Month-to-month,0.773,57.831
+3878-AVSOQ,New & vulnerable,1,71.25,Month-to-month,0.81,57.693
+6786-OBWQR,New & vulnerable,5,80.85,Month-to-month,0.712,57.563
+1028-FFNJK,Established M2M,30,101.5,Month-to-month,0.566,57.469
+4090-KPJIP,New & vulnerable,3,74.95,Month-to-month,0.765,57.322
+6435-SRWBJ,New & vulnerable,5,82.75,Month-to-month,0.692,57.288
+6407-UTSLV,New & vulnerable,2,83.8,Month-to-month,0.682,57.19
+3524-WQDSG,Established M2M,43,99.3,Month-to-month,0.575,57.128
+8800-JOOCF,New & vulnerable,12,84.05,Month-to-month,0.68,57.118
+2227-JRSJX,Established M2M,21,99.15,Month-to-month,0.575,57.02
+7465-ZZRVX,New & vulnerable,1,70.35,Month-to-month,0.811,57.019
+2215-ZAFGX,New & vulnerable,9,85.5,Month-to-month,0.666,56.983
+1932-UEDCX,Established M2M,33,100.6,Month-to-month,0.566,56.895
+1104-TNLZA,Established M2M,28,105.8,Month-to-month,0.537,56.854
+1469-LBJQJ,Established M2M,66,105.2,Month-to-month,0.54,56.843
+9603-OAIHC,New & vulnerable,1,70.05,Month-to-month,0.811,56.815
+1640-PLFMP,New & vulnerable,1,70.25,Month-to-month,0.808,56.793
+9605-WGJVW,New & vulnerable,1,70.2,Month-to-month,0.809,56.791
+1197-BVMVG,New & vulnerable,4,74.45,Month-to-month,0.763,56.785
+3191-CSNMG,New & vulnerable,3,80.7,Month-to-month,0.703,56.758
+6357-JJPQT,New & vulnerable,3,80.5,Month-to-month,0.703,56.618
+2077-MPJQO,New & vulnerable,7,75.4,Month-to-month,0.751,56.602
+2789-HQBOU,New & vulnerable,3,80.35,Month-to-month,0.7,56.238
+0187-QSXOE,New & vulnerable,7,89.0,Month-to-month,0.632,56.231
+4115-NZRKS,New & vulnerable,7,89.15,Month-to-month,0.629,56.047
+9314-IJWSQ,Established M2M,14,84.8,Month-to-month,0.659,55.918
+6212-ATMLK,Established M2M,50,95.7,Month-to-month,0.582,55.736
+8242-SOQUO,New & vulnerable,5,84.7,Month-to-month,0.658,55.692
+3030-YDNRM,New & vulnerable,8,74.85,Month-to-month,0.743,55.605
+0480-BIXDE,Established M2M,19,96.8,Month-to-month,0.574,55.581
+8309-IEYJD,New & vulnerable,1,70.6,Month-to-month,0.784,55.349
+2123-AGEEN,New & vulnerable,7,84.35,Month-to-month,0.656,55.346
+2688-BHGOG,New & vulnerable,9,79.55,Month-to-month,0.695,55.315
+5032-MIYKT,New & vulnerable,1,70.7,Month-to-month,0.781,55.235
+2674-MIAHT,New & vulnerable,4,80.3,Month-to-month,0.688,55.231
+1173-XZPYF,New & vulnerable,11,89.2,Month-to-month,0.619,55.215
+9617-INGJY,New & vulnerable,1,70.6,Month-to-month,0.781,55.157
+3199-XGZCY,New & vulnerable,8,75.25,Month-to-month,0.732,55.097
+9840-EFJQB,New & vulnerable,1,74.35,Month-to-month,0.741,55.085
+7363-QTBIW,New & vulnerable,9,79.75,Month-to-month,0.691,55.076
+1013-QCWAM,Established M2M,66,100.8,Month-to-month,0.546,55.06
+5628-FCGYG,Established M2M,21,84.1,Month-to-month,0.652,54.814
+0840-DFEZH,New & vulnerable,7,75.35,Month-to-month,0.727,54.8
+0168-XZKBB,Established M2M,19,86.85,Month-to-month,0.63,54.756
+7994-UYIVZ,New & vulnerable,8,85.65,Month-to-month,0.638,54.675
+6860-YRJZP,New & vulnerable,9,74.05,Month-to-month,0.737,54.542
+9129-UXERG,Established M2M,18,103.6,Month-to-month,0.526,54.508
+8033-VCZGH,Power user,50,103.95,One year,0.524,54.479
+0396-YCHWO,Established M2M,36,95.4,Month-to-month,0.571,54.477
+2984-AFWNC,New & vulnerable,3,95.4,Month-to-month,0.571,54.462
+2800-QQUSO,Established M2M,42,100.3,Month-to-month,0.541,54.252
+8378-LKJAF,Established M2M,38,101.15,Month-to-month,0.535,54.113
+5934-RMPOV,Established M2M,22,84.75,Month-to-month,0.637,53.986
+2262-SLNVK,New & vulnerable,1,70.1,Month-to-month,0.77,53.954
+7714-YXSMB,Established M2M,26,100.5,Month-to-month,0.535,53.757
+4062-HBMOS,Established M2M,52,103.05,Month-to-month,0.521,53.663
+9402-ORRAH,Established M2M,15,91.5,Month-to-month,0.585,53.569
+3951-NJCVI,Established M2M,42,95.05,Month-to-month,0.563,53.556
+2452-KDRRH,Established M2M,67,101.4,Month-to-month,0.527,53.483
+9050-IKDZA,New & vulnerable,2,81.5,Month-to-month,0.656,53.458
+6377-WHAOX,Established M2M,60,106.15,Month-to-month,0.503,53.428
+3420-YJLQT,New & vulnerable,2,79.55,Month-to-month,0.671,53.408
+8875-AKBYH,Established M2M,20,84.35,Month-to-month,0.633,53.355
+0265-PSUAE,Established M2M,16,100.7,Month-to-month,0.53,53.344
+4566-NECEV,New & vulnerable,5,96.55,Month-to-month,0.551,53.213
+9168-INPSZ,Established M2M,44,104.15,Month-to-month,0.511,53.171
+8040-MNRTF,New & vulnerable,1,71.1,Month-to-month,0.747,53.119
+0147-ESWWR,Established M2M,39,101.25,Month-to-month,0.525,53.117
+8873-GLDMH,New & vulnerable,6,73.85,Month-to-month,0.713,52.655
+6856-RAURS,New & vulnerable,2,74.9,Month-to-month,0.703,52.618
+6583-KQJLK,Established M2M,15,94.65,Month-to-month,0.554,52.455
+8734-DKSTZ,New & vulnerable,10,85.95,Month-to-month,0.609,52.306
+3312-UUMZW,Established M2M,32,98.85,Month-to-month,0.529,52.266
+1641-RQDAY,Established M2M,32,100.4,Month-to-month,0.519,52.139
+4690-PKDQG,Established M2M,42,95.55,Month-to-month,0.545,52.076
+5947-SGKCL,Established M2M,15,105.35,Month-to-month,0.493,51.929
+8541-QVFKM,New & vulnerable,8,73.5,Month-to-month,0.705,51.83
+6088-BXMRG,Established M2M,32,98.85,Month-to-month,0.523,51.733
+7379-FNIUJ,New & vulnerable,2,100.2,Month-to-month,0.516,51.669
+3587-PMCOY,Power user,10,98.9,One year,0.522,51.602
+7233-DRTRF,Established M2M,63,102.4,Month-to-month,0.504,51.582
+3352-ALMCK,Established M2M,40,102.65,Month-to-month,0.502,51.491
+4059-IIEBK,New & vulnerable,7,78.55,Month-to-month,0.654,51.368
+6918-UMQCG,New & vulnerable,5,80.2,Month-to-month,0.639,51.265
+3588-WSTTJ,Established M2M,35,99.05,Month-to-month,0.517,51.248
+0258-NOKBL,New & vulnerable,3,90.4,Month-to-month,0.566,51.201
+8035-PWSEV,New & vulnerable,6,89.25,Month-to-month,0.573,51.111
+7426-RHZGU,New & vulnerable,9,95.9,Month-to-month,0.532,51.04
+2675-DHUTR,Established M2M,58,98.9,Month-to-month,0.515,50.941
